@@ -1,0 +1,9 @@
+pandas 
+regex
+elasticsearch
+langchain
+langchain-openai
+langchain_community
+fastapi
+uvicorn
+python-dotenv
