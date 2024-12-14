@@ -1,5 +1,5 @@
-from utils import generate_embedding
-from es_connection import connect_elastic
+from api.utils import generate_embedding
+from api.es_connection import connect_elastic
 import os
 from dotenv import load_dotenv
 
